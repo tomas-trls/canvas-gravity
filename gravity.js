@@ -11,7 +11,7 @@ const mouse = {
 
 let gravity = 1;
 let friction = 0.99;
-let amountOfBalls = 400;
+let amountOfBalls = 25;
 
 let colorsArr = ["#ffbe0b", "#fb5607", "#ff006e", "#8338ec", "#3a86ff"];
 
